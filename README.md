@@ -54,8 +54,8 @@ Hindi / Kannada (Native)
 
 ## 📫 Connect With Me
 
-LinkedIn: your-linkedin-url  
-Email: your-email
+LinkedIn: https://www.linkedin.com/in/praveen-bhat-99923111
+Email: praveen.bhat.k8s@gmail.com
 
 ## ⚡ Current Focus
 
