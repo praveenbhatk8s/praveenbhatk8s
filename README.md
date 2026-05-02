@@ -87,6 +87,8 @@ Focused on:
 - CKAD – Certified Kubernetes Application Developer
 - RHCSA – Red Hat Certified System Administrator
 - Red Hat OpenShift Administration
+- ITIL V3 Certified
+- CCNA equivalent certification from HughesNet
 
 ---
 
