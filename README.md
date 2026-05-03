@@ -1,142 +1,109 @@
 <div align="center">
 
-# Praveen Bhat 👋
+# Praveen Bhat
 
-### Senior Platform Engineer • DevSecOps Lead • Kubernetes Security Specialist
+### Senior Platform Engineer | DevSecOps | Kubernetes | GitOps | Cloud Infrastructure
 
-<p>
-Building scalable, secure, cloud-native platforms across AWS • GCP • Azure  
-17+ Years Experience | Germany 🇩🇪
-</p>
+I build secure, production-grade cloud platforms that make delivery faster, operations calmer, and security easier to prove.
 
 <p>
-<a href="https://www.linkedin.com/in/praveen-bhat-99923111">LinkedIn</a> •
-<a href="mailto:prav.bh@gmail.com">Email</a>
+  <a href="https://github.com/praveenbhatk8s">
+    <img src="https://komarev.com/ghpvc/?username=praveenbhatk8s&label=Profile%20views&color=2563eb&style=flat" alt="profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/praveen-bhat-99923111">
+    <img src="https://img.shields.io/badge/LinkedIn-Praveen%20Bhat-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prav.bh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prav.bh%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-
-![AWS](https://img.shields.io/badge/AWS-Expert-orange?style=for-the-badge&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-blue?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-Advanced-623CE4?style=for-the-badge&logo=terraform)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-Leadership-success?style=for-the-badge)
-![Platform Engineering](https://img.shields.io/badge/Platform-Engineering-black?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 Executive Summary
+## What I Do
 
-Senior Platform & DevSecOps Engineer with 17+ years of experience architecting resilient infrastructure, Kubernetes platforms, cloud automation, and security-first delivery systems.
+I am a Senior Platform and DevSecOps Engineer with 17+ years of experience across cloud infrastructure, Kubernetes platforms, GitOps delivery, automation, and security engineering.
 
-Focused on:
+My strongest work sits at the intersection of:
 
-- Internal Developer Platforms (IDP)
-- Kubernetes at scale
-- Zero Trust Security
-- Multi-cloud architecture
-- GitOps delivery models
-- Reliability & cost optimization
-- Developer productivity
+- Kubernetes platform engineering across EKS, GKE, AKS, and OpenShift
+- Terraform-based infrastructure platforms with reusable modules and CI validation
+- GitOps operating models with Argo CD, Helm, policy controls, and drift detection
+- DevSecOps guardrails with Kyverno, OPA Gatekeeper, Trivy, Kubescape, Falco, and kube-bench
+- Incident response, reliability engineering, observability, and operational automation
 
----
+## Portfolio Highlights
 
-# 🧠 Core Expertise
+| Project | What It Demonstrates | Stack |
+| --- | --- | --- |
+| [terraform-eks-platform](https://github.com/praveenbhatk8s/terraform-eks-platform) | Production-style EKS foundation with VPC, node groups, Karpenter, add-ons, and Terraform CI | Terraform, AWS, EKS, Karpenter, GitHub Actions |
+| [argocd-gitops-platform](https://github.com/praveenbhatk8s/argocd-gitops-platform) | App-of-apps GitOps delivery platform with Helm workloads and automated reconciliation | Argo CD, Helm, Kubernetes, GitOps |
+| [kubernetes-security-hardening](https://github.com/praveenbhatk8s/kubernetes-security-hardening) | Kubernetes security lab covering admission control, runtime detection, scanning, and hardening tests | Kyverno, Gatekeeper, Falco, Trivy, Kubescape |
+| [agentic-sre-platform](https://github.com/praveenbhatk8s/agentic-sre-platform) | Agentic incident triage workflow with guardrails and Kubernetes remediation hooks | Python, FastAPI, Kubernetes, SRE automation |
 
-## ☁️ Cloud Platforms
+## Technical Depth
 
-![AWS](https://img.shields.io/badge/AWS-EKS%20VPC%20Lambda-FF9900?style=flat-square&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-GKE-4285F4?style=flat-square&logo=googlecloud)
-![Azure](https://img.shields.io/badge/Azure-AKS-0078D4?style=flat-square&logo=microsoftazure)
-![IBM](https://img.shields.io/badge/IBM-Cloud-052FAD?style=flat-square&logo=ibm)
+**Cloud and Platform**
 
-## ⚙️ Platform / Containers
+![AWS](https://img.shields.io/badge/AWS-EKS%20%7C%20VPC%20%7C%20IAM%20%7C%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-GKE%20%7C%20IAM%20%7C%20Networking-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AKS%20%7C%20DevOps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform%20Engineering-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=flat-square&logo=kubernetes)
-![OpenShift](https://img.shields.io/badge/OpenShift-Advanced-EE0000?style=flat-square&logo=redhatopenshift)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)
-![Karpenter](https://img.shields.io/badge/Karpenter-Autoscaling-success?style=flat-square)
+**Infrastructure and Delivery**
 
-## 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-Modules%20%7C%20CI%20%7C%20IaC-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-Packaging-0F1689?style=flat-square&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-![Terraform](https://img.shields.io/badge/Terraform-Expert-623CE4?style=flat-square&logo=terraform)
-![Crossplane](https://img.shields.io/badge/Crossplane-Advanced-blue?style=flat-square)
-![Ansible](https://img.shields.io/badge/Ansible-Advanced-black?style=flat-square&logo=ansible)
+**Security and Reliability**
 
-## 🔁 CI/CD & GitOps
+![Kyverno](https://img.shields.io/badge/Kyverno-Policy%20as%20Code-2563EB?style=flat-square)
+![OPA Gatekeeper](https://img.shields.io/badge/OPA%20Gatekeeper-Admission%20Control-7C3AED?style=flat-square)
+![Falco](https://img.shields.io/badge/Falco-Runtime%20Detection-00AEC7?style=flat-square)
+![Trivy](https://img.shields.io/badge/Trivy-Scanning-1904DA?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat-square&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI-red?style=flat-square&logo=jenkins)
+## Architecture Mindset
 
-## 🔐 Security
+```mermaid
+flowchart LR
+  Dev["Developer Experience"] --> GitOps["GitOps Delivery"]
+  GitOps --> Platform["Kubernetes Platform"]
+  Platform --> Guardrails["Security Guardrails"]
+  Guardrails --> Runtime["Runtime Detection"]
+  Runtime --> Feedback["Operational Feedback"]
+  Feedback --> Dev
+```
 
-![CKS](https://img.shields.io/badge/CKS-Certified-success?style=flat-square)
-![Vault](https://img.shields.io/badge/Vault-Secrets-black?style=flat-square&logo=vault)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-Enabled-success?style=flat-square)
+The goal is not just infrastructure that works. The goal is infrastructure that teams can understand, operate, secure, and improve.
 
----
+## Certifications
 
-# 🏆 Certifications
-
-- CKS – Certified Kubernetes Security Specialist
-- CKA – Certified Kubernetes Administrator
-- CKAD – Certified Kubernetes Application Developer
-- RHCSA – Red Hat Certified System Administrator
+- Certified Kubernetes Security Specialist
+- Certified Kubernetes Administrator
+- Certified Kubernetes Application Developer
+- Red Hat Certified System Administrator
 - Red Hat OpenShift Administration
 - ITIL V3 Certified
 - CCNA equivalent certification from HughesNet
 
----
+## Current Focus
 
-# 📌 Featured Repositories
+- Platform engineering roles at Senior, Lead, Staff, or Principal level
+- Kubernetes and GitOps platform ownership
+- DevSecOps transformation and cloud security hardening
+- Internal developer platforms and operational automation
 
-| Repository | Focus |
-|-----------|------|
-| terraform-eks-platform | Enterprise AWS Platform |
-| kubernetes-security-hardening | Security Baselines |
-| argocd-gitops-platform | GitOps Delivery |
-| internal-developer-platform | Self-Service Platform |
-| platform-observability-stack | Prometheus / Grafana |
-| devsecops-pipeline-demo | Secure CI/CD |
+## Contact
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
+- LinkedIn: [linkedin.com/in/praveen-bhat-99923111](https://www.linkedin.com/in/praveen-bhat-99923111)
+- Email: [prav.bh@gmail.com](mailto:prav.bh@gmail.com)
+- Location: Germany
 
 ---
 
-# 🌍 Based In Germany
-
-📍 Ilmenau, Thuringia, Germany  
-Open to Senior Platform / Staff / Lead Engineering Opportunities
-
----
-
-# 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/praveen-bhat-99923111
-- Email: prav.bh@gmail.com
-
----
-
-# ⚡ Personal Motto
-
-> Build platforms developers love, security teams trust, and businesses scale on.
+> Build platforms developers love, security teams trust, and businesses can scale on.
