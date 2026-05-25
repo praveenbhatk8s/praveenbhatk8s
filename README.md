@@ -38,10 +38,26 @@ My strongest work sits at the intersection of:
 
 | Project | What It Demonstrates | Stack |
 | --- | --- | --- |
+| [mlops-autofix-poc](https://github.com/praveenbhatk8s/mlops-autofix-poc) | Self-healing MLOps deployment pattern where Argo Rollouts blocks a faulty canary and keeps stable traffic healthy | Kubernetes, kind, FastAPI, Argo Rollouts |
+| [devops-cicd-demo](https://github.com/praveenbhatk8s/devops-cicd-demo) | CI/CD platform demo with Jenkins, Kubernetes, Helm, Kaniko, quality gates, registry, and observability tooling | Jenkins, Kubernetes, Helm, Kaniko, SonarQube, Trivy |
 | [terraform-eks-platform](https://github.com/praveenbhatk8s/terraform-eks-platform) | Production-style EKS foundation with VPC, node groups, Karpenter, add-ons, and Terraform CI | Terraform, AWS, EKS, Karpenter, GitHub Actions |
 | [argocd-gitops-platform](https://github.com/praveenbhatk8s/argocd-gitops-platform) | App-of-apps GitOps delivery platform with Helm workloads and automated reconciliation | Argo CD, Helm, Kubernetes, GitOps |
 | [kubernetes-security-hardening](https://github.com/praveenbhatk8s/kubernetes-security-hardening) | Kubernetes security lab covering admission control, runtime detection, scanning, and hardening tests | Kyverno, Gatekeeper, Falco, Trivy, Kubescape |
 | [agentic-sre-platform](https://github.com/praveenbhatk8s/agentic-sre-platform) | Agentic incident triage workflow with guardrails and Kubernetes remediation hooks | Python, FastAPI, Kubernetes, SRE automation |
+
+## Latest Public Repositories
+
+| Repository | Focus |
+| --- | --- |
+| [mlops-autofix-poc](https://github.com/praveenbhatk8s/mlops-autofix-poc) | MLOps canary validation and automatic rollback using Argo Rollouts |
+| [devops-cicd-demo](https://github.com/praveenbhatk8s/devops-cicd-demo) | Jenkins-to-Kubernetes CI/CD demo with Helm, Kaniko, Trivy, Nexus, Prometheus, and Grafana |
+| [terraform-eks-platform](https://github.com/praveenbhatk8s/terraform-eks-platform) | Modular AWS EKS platform infrastructure with Terraform and CI validation |
+| [argocd-gitops-platform](https://github.com/praveenbhatk8s/argocd-gitops-platform) | Argo CD GitOps platform patterns for Kubernetes application delivery |
+| [kubernetes-security-hardening](https://github.com/praveenbhatk8s/kubernetes-security-hardening) | Kubernetes hardening, scanning, admission control, and runtime detection lab |
+| [agentic-sre-platform](https://github.com/praveenbhatk8s/agentic-sre-platform) | Agentic incident triage and guarded Kubernetes remediation prototype |
+| [devsecops-cicd-k8s-pipeline](https://github.com/praveenbhatk8s/devsecops-cicd-k8s-pipeline) | Spring Boot DevSecOps pipeline with Kubernetes deployment and monitoring |
+| [End-to-End-Kubernetes-Three-Tier-DevSecOps-Project](https://github.com/praveenbhatk8s/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project) | Three-tier app on AWS EKS with Terraform, Jenkins, Argo CD, Helm, and monitoring |
+| [Fast-Kubernetes](https://github.com/praveenbhatk8s/Fast-Kubernetes) | Kubernetes labs covering core kubectl, workload, service, storage, ingress, and Helm workflows |
 
 ## Technical Depth
 
@@ -56,8 +72,10 @@ My strongest work sits at the intersection of:
 
 ![Terraform](https://img.shields.io/badge/Terraform-Modules%20%7C%20CI%20%7C%20IaC-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Argo Rollouts](https://img.shields.io/badge/Argo%20Rollouts-Progressive%20Delivery-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-Packaging-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **Security and Reliability**
 
@@ -96,6 +114,7 @@ The goal is not just infrastructure that works. The goal is infrastructure that 
 - Platform engineering roles at Senior, Lead, Staff, or Principal level
 - Kubernetes and GitOps platform ownership
 - DevSecOps transformation and cloud security hardening
+- Progressive delivery, MLOps reliability patterns, and self-healing deployment workflows
 - Internal developer platforms and operational automation
 
 ## Contact
