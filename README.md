@@ -108,6 +108,7 @@ The goal is not just infrastructure that works. The goal is infrastructure that 
 - Red Hat OpenShift Administration
 - ITIL V3 Certified
 - CCNA equivalent certification from HughesNet
+- LPIC 1 & 2 Certified
 
 ## Current Focus
 
